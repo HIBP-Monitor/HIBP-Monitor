@@ -1,0 +1,1 @@
+java -jar monitoring-demon-1.0.jar
